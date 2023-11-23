@@ -116,7 +116,7 @@
 			label = "音乐";
 			icon = [EF 86 94];
 			bindings = <&trans &trans>;
-			sensor-bindings = <&inc_dec_kp C_PREV C_DN>;
+			sensor-bindings = <&inc_dec_kp C_PREV C_NEXT>;
                         profile = <&profile_spring>;
 		};
 
