@@ -117,6 +117,7 @@
 			icon = [EF 86 94];
 			bindings = <&trans &trans>;
 			sensor-bindings = <&inc_dec_kp MEDIA_NEXT_TRACK MEDIA_PREV_TRACK>;
+                        profile = <&profile_spring>;
 		};
 
                 arrow_vertical {
